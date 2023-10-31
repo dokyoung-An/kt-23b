@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: KT?????-23B.ggsk
-// Generated 2023-10-31T09:41:18
+// Generated 2023-10-31T14:33:54
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_mobilemenu', 2, false, { ignoreInState: 0  });
@@ -2448,7 +2448,7 @@ function pano2vrSkin(player,base) {
 		me.__onoff_20.logicBlock_visible = function() {
 			var newLogicStateVisible;
 			if (
-				((player._(me.ggUserdata.comment) == "\uac70\uc2e42"))
+				((player._(me.ggUserdata.comment) == "\uac70\uc2e4"))
 			)
 			{
 				newLogicStateVisible = 0;
