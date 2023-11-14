@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: KT?????-23B.ggsk
-// Generated 2023-10-31T14:33:54
+// Generated 2023-11-14T11:57:20
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_mobilemenu', 2, false, { ignoreInState: 0  });
@@ -22438,7 +22438,7 @@ function pano2vrSkin(player,base) {
 				me._kor.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._kor.style.transition='color 0s';
 				if (me._kor.ggCurrentLogicStateTextColor == 0) {
-					me._kor.style.color="rgba(191,142,88,1)";
+					me._kor.style.color="rgba(237,86,88,1)";
 				}
 				else {
 					me._kor.style.color="rgba(0,0,0,1)";
@@ -22531,7 +22531,7 @@ function pano2vrSkin(player,base) {
 				me._text_3.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._text_3.style.transition='color 0s';
 				if (me._text_3.ggCurrentLogicStateTextColor == 0) {
-					me._text_3.style.color="rgba(191,142,88,1)";
+					me._text_3.style.color="rgba(237,86,88,1)";
 				}
 				else {
 					me._text_3.style.color="rgba(0,0,0,1)";
@@ -23983,7 +23983,7 @@ function pano2vrSkin(player,base) {
 				me._koroff.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._koroff.style.transition='color 0s';
 				if (me._koroff.ggCurrentLogicStateTextColor == 0) {
-					me._koroff.style.color="rgba(191,142,88,1)";
+					me._koroff.style.color="rgba(237,86,88,1)";
 				}
 				else {
 					me._koroff.style.color="rgba(0,0,0,1)";
@@ -24076,7 +24076,7 @@ function pano2vrSkin(player,base) {
 				me._text_3off.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._text_3off.style.transition='color 0s';
 				if (me._text_3off.ggCurrentLogicStateTextColor == 0) {
-					me._text_3off.style.color="rgba(191,142,88,1)";
+					me._text_3off.style.color="rgba(237,86,88,1)";
 				}
 				else {
 					me._text_3off.style.color="rgba(0,0,0,1)";
